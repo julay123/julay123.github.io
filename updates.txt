@@ -1,0 +1,8 @@
+https://conf.hdvbapp.casa/hdvideobox/hd_updates.json
+https://conf.hdvbox.com/hdvideobox/hd_updates.json
+
+https://conf.hdvbapp.casa/hdvideobox/beta_updates.json
+https://conf.hdvbox.com/hdvideobox/beta_updates.json
+
+https://raw.githubusercontent.com/skvalex/callrecorder/updates/latest.json
+https://callrecorder.skvalex.com/api?action=update
